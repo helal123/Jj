@@ -96,4 +96,4 @@ Will you be the one to make history?
 During each user prompt Freysa makes a decision to approve a money transfer or reject it. Behind the scenes this is implemented using the "tool calling" feature of LLMs.
 
 ## When winner is announced and payments are made?
-Winner will be visible immediately in the chat UI imemediately after Freysa makes a decision to transfer funds. In either a case of a human winning or the game ending due to global timer the funds will be distributed within next 6 hours.
+Winner will be visible immediately in the chat UI immediately after Freysa makes a decision to transfer funds. In either a case of a human winning or the game ending due to global timer the funds will be distributed within next 6 hours.
